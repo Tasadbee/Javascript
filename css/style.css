@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(53, 56, 10);
+}
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+.hh{
+    text-align: center;
+    color: blueviolet;
+    margin: 0 auto;
+    margin-top: 200px;
+    background-color: black;
+}
